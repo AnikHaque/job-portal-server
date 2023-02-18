@@ -1,0 +1,70 @@
+[
+    {
+        "id": "1",
+        "name": "Software Engineer",
+        "jobtype": "Full-time. Entry level (Remote)",
+        "companydetails": "The fastest growing Cloud Based Marketplace Company, Field Nation is looking for a 'Software Engineer' for its development team. As we are rising day by day, our needs are evolving and to keep pace with the evolution we need experts like you to contribute, learn and grow with us. As a Software Engineer you will be contributing to the integral development of the team with a high level of professionalism and accountability. This position will also offer the chance to work in a fast-paced, hyper growth environment where innovative ideas are encouraged and collaboration is a must. This position is located in Uttara, Dhaka.",
+        "jobdetails": "Expert on PHP, OOP, MVC, MySQL and JavaScript.Knowledgeable in OOP JS, node.js and express.js.Knowledgeable in CSS3, Bootstrap Grid System, HTML5.Experience with ES6 and react.js. Open to learning new technologies.Strong written and verbal communication skills in English Relational database performance optimizations Experience with REST APIs.Familiarity with the Git version control system. Familiarity with the Git version control system.",
+
+        "qualification": "Bachelor or Master level degree in Computer Science or Engineering from a reputed University or equivalent practical experience. At least 2 years of experience in full-stack software development.",
+        "location": "Dhaka, Bangladesh",
+        "img": "http://i3.ytimg.com/vi/9wF-gv-isOY/maxresdefault.jpg"
+
+
+      },
+    {
+        "id": "2",
+        "name": "Wordpress Developer",
+        "jobtype": "Full-time. Entry level",
+        "companydetails": "Company Description: Dgency is a high-impact Digital Marketing Agency in Bangladesh. At Dgency, we implement strategic marketing solutions that deliver more customers, grow revenue, and future-proof your business.",
+        "jobdetails": "Job Description: As a Wordpress Developer with our team, you will be responsible for executing best-in-class new website builds as well as feature and template updates to existing websites across a portfolio of client websites. Working with our team of designers and overseen by a project manager, we are looking for someone with strong expertise in WordPress theme development using modern standards for HTML5, CSS3, SCSS, native JS (ES6), latest Bootstrap libraries, and is familiar with Gutenberg, ACF Pro, Gravity Forms, Composer, NodeJS, and Git (for collaborative development). The ideal candidate should be capable of implementing pixel-perfect responsive web builds based on provided designs.",
+        "qualification": "Qualifications:M.Sc/ B.Sc in Computer Science and Engineering3 years of experience in digital agency/software making company    Write clean, valid code using modern standards and libraries (HTML5, CSS3, SCSS, native JS-ES6)Create Unit and Integration tests to ensure the quality of codeWrite code that is cross-platform and cross-device compatibleSolving problems both in Micro (debugging code) and Macro (architect new features) levelsExcellent analytical and critical thinking skills.Ability to work under pressureCommunicate with project managers regularly through project checkpoint meetings, code reviews, and project management tools",
+        "location": "Dhaka, Bangladesh",
+        "img": "https://cedcommerce.com/blog/wp-content/uploads/2021/10/hire-wordpress-blog-banner.jpg"
+      },
+      {
+        "id": "3",
+        "name": "PHP Developer",
+        "jobtype": "Full-time. Entry (Remote)",
+        "companydetails": "R&G Communication  Khilkhet Thana, Dhaka, Bangladesh Hybrid",
+        "jobdetails": "Must have mentality to work for long term with ownership. Should not like to say it's not possible without try. Should not be leave the job before complete any project. Must have develop project with object-oriented programming, data structure, and algorithm. Design database and optimize queries for better performance. Develop Back-end, Front-end & Full-stack programing and logic in PHP (Laravel). You will be responsible to develop/upgrading web-based projects as a team member or individual.",
+     
+        "qualification": "At least 1 year The applicants should have experience in Object Oriented programing, PHP (Laravel) reshers are also encouraged to apply",
+        "location": "Dhaka, Bangladesh"
+        ,
+        "img": "https://www.interviewbit.com/blog/wp-content/uploads/2021/08/php-developer.jpg"
+      },
+      {
+        "id": "4",
+        "name": "DevOps Engineer",
+        "jobtype": "Full-time. Entry level",
+        "companydetails": "IT Managed Services, Software Development, IT Training, Software Consulting, IT Staffing, Digital Marketing, Azure, AWS , Splunk , Service-now, Salesforce, Mulesoft, React Native, and React Js",
+        "jobdetails": "Must work in US time zone 8Am MST to 5 PM MST. Salary Paid Yearly 3,60,000 BDT Must have a Valid Passport Have experience at least 3 years' experience with following technologies. AWS, Python, Django, Kubernetes, Containers, Docker, Ubuntu, serverless API management Monitoring tools like Dynatrace, New Relic, Splunk and MySQL ",
+        
+        "qualification": "2 years of experience with VMware, Citrix, Linux KVM, or Azure infrastructure. 1 Year of Linux Server Administration. Having a worked in a highly motivated, fast-paced, critical support role. Excellent decision making and critical-thinking skills. An ability to work in a fast-paced and quickly changing environment.",
+        "location": "Dhaka, Bangladesh",
+        "img": "https://cdn.educba.com/academy/wp-content/uploads/2019/11/DevOps-Engineer.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Full Stack Engineer",
+        "jobtype": "Full-time. Entry level (Remote)",
+        "companydetails": "Daniyal Technology is a revolutionary new platform that is changing web applications forever. It's fast, reliable, and easy to use, making it the perfect choice for businesses of all sizes. With Daniyal Technology, you'll get a top-quality application that meets your needs and exceeds your expectations.",
+        "jobdetails": "𝐎𝐟𝐟𝐞𝐫𝐞𝐝 𝐏𝐨𝐬𝐢𝐭𝐢𝐨𝐧: 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 Engineer (SDE - ||)  (2+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 in Nest & Vuejs/Nextjs) ",
+        
+        "qualification": "Bachelor's degree in Information Technology or related field 2+ years' of technical experience Proper ideas on databases (Relational and NoSQL). Understanding of all search engines and functions as well as marketing Server experience is a plus (nginx, apache)",
+        "location": "Dhaka, Bangladesh",
+        "img": "https://www.designveloper.com/wp-content/uploads/2022/04/full-stack-engineer.jpg"
+      },
+      {
+        "id": "6",
+        "name": "PHP Developer",
+        "jobtype": "Full-time. Entry level",
+        "companydetails": "The ideal candidate is a highly resourceful and innovative developer with extensive experience in web application development using PHP programming language (Laravel Framework), RestAPI, and MySQL Server databases.",
+        "jobdetails": "Job Nature: Full-time (Remote) Working days: 6 days (Saturday -Thursday) Office Location: Dhaka, Bangladesh",
+    
+        "qualification": "1+ years of experience in web development and software design (Laravel Framework) Expertise in front-end technologies (HTML, CSS, Bootstrap, Tailwind CSS) Expertise in back-end technologies (PHP frameworks, JavaScript, REST API, and MySQL databases)",
+        "location": "Dhaka, Bangladesh",
+        "img": "https://www.interviewbit.com/blog/wp-content/uploads/2021/08/php-developer.jpg"
+      }
+]

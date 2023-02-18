@@ -1,0 +1,75 @@
+[
+    {
+        "id": "01",
+        "name": "Senior Full Stack Developer",
+        "jobtype": "Full-time. Entry level",
+        "location": "Dhaka, bangladesh",
+        "jobdetails": "Job Nature: Full-time (Remote) Working days: 6 days (Saturday -Thursday) Office Location: Dhaka, Bangladesh",
+        "companydetails": "The ideal candidate is a highly resourceful and innovative developer with extensive experience in web application development using PHP programming language (Laravel Framework), RestAPI, and MySQL Server databases.",
+        "img":"https://www.kosli.com/images/kosli-JobAddesign-Senior-Full-Stack-Developer2.jpg",
+        
+        "qualification": "1+ years of experience in web development and software design (Laravel Framework) Expertise in front-end technologies (HTML, CSS, Bootstrap, Tailwind CSS) Expertise in back-end technologies (PHP frameworks, JavaScript, REST API, and MySQL databases)"
+
+    },
+    {
+        "id": "02",
+        "name": "Senior Software Engineer",
+        "jobtype": "Full-time. Entry level",
+        "location": "Dhaka, bangladesh",
+        "jobdetails": "Job Description: As a Wordpress Developer with our team, you will be responsible for executing best-in-class new website builds as well as feature and template updates to existing websites across a portfolio of client websites. Working with our team of designers and overseen by a project manager, we are looking for someone with strong expertise in WordPress theme development using modern standards for HTML5, CSS3, SCSS, native JS (ES6), latest Bootstrap libraries, and is familiar with Gutenberg, ACF Pro, Gravity Forms, Composer, NodeJS, and Git (for collaborative development). The ideal candidate should be capable of implementing pixel-perfect responsive web builds based on provided designs.",
+        "companydetails": "Dgency is a high-impact Digital Marketing Agency in Bangladesh. At Dgency, we implement strategic marketing solutions that deliver more customers, grow revenue, and future-proof your business.",
+        "img":"https://c8.alamy.com/comp/2H2TXGE/senior-software-engineer-with-binary-code-digital-technology-background-abstract-background-with-program-code-and-senior-software-engineer-programmi-2H2TXGE.jpg",
+        
+        "qualification": "Qualifications:M.Sc/ B.Sc in Computer Science and Engineering3 years of experience in digital agency/software making company    Write clean, valid code using modern standards and libraries (HTML5, CSS3, SCSS, native JS-ES6)Create Unit and Integration tests to ensure the quality of codeWrite code that is cross-platform and cross-device compatibleSolving problems both in Micro (debugging code) and Macro (architect new features) levelsExcellent analytical and critical thinking skills.Ability to work under pressureCommunicate with project managers regularly through project checkpoint meetings, code reviews, and project management tools"
+
+    },
+    {
+        "id": "03",
+        "name": "Sr. Data Engineer",
+        "jobtype": "Full-time. Entry level",
+        "location": "Dhaka, bangladesh",
+        "jobdetails": "𝐎𝐟𝐟𝐞𝐫𝐞𝐝 𝐏𝐨𝐬𝐢𝐭𝐢𝐨𝐧: 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 Engineer (SDE - ||)  (2+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 in Nest & Vuejs/Nextjs) ",
+        "companydetails": "Daniyal Technology is a revolutionary new platform that is changing web applications forever. It's fast, reliable, and easy to use, making it the perfect choice for businesses of all sizes. With Daniyal Technology, you'll get a top-quality application that meets your needs and exceeds your expectations.",
+        "img":"https://i.ibb.co/JKNc6cn/Capture.png",
+        
+        "qualification": "Bachelor's degree in Information Technology or related field 2+ years' of technical experience Proper ideas on databases (Relational and NoSQL). Understanding of all search engines and functions as well as marketing Server experience is a plus (nginx, apache)"
+
+    },
+    {
+        "id": "04",
+        "name": "React Native Developer",
+        "jobtype": "Full-time. Entry level",
+        "location": "Dhaka, bangladesh",
+        "jobdetails": "Expert on PHP, OOP, MVC, MySQL and JavaScript.Knowledgeable in OOP JS, node.js and express.js.Knowledgeable in CSS3, Bootstrap Grid System, HTML5.Experience with ES6 and react.js. Open to learning new technologies.Strong written and verbal communication skills in English Relational database performance optimizations Experience with REST APIs.Familiarity with the Git version control system. Familiarity with the Git version control system.",
+        "companydetails": "The fastest growing Cloud Based Marketplace Company, Field Nation is looking for a 'Software Engineer' for its development team. As we are rising day by day, our needs are evolving and to keep pace with the evolution we need experts like you to contribute, learn and grow with us. As a Software Engineer you will be contributing to the integral development of the team with a high level of professionalism and accountability. This position will also offer the chance to work in a fast-paced, hyper growth environment where innovative ideas are encouraged and collaboration is a must. This position is located in Uttara, Dhaka.",
+        "img":"https://mobisoftinfotech.com/resources/wp-content/uploads/2022/01/og-hire-react-native-developers.png",
+        
+        "qualification": "Bachelor or Master level degree in Computer Science or Engineering from a reputed University or equivalent practical experience. At least 2 years of experience in full-stack software development."
+
+    },
+    {
+        "id": "05",
+        "name": "Senior PHP Developer",
+        "jobtype": "Full-time. Entry level",
+        "location": "Dhaka, bangladesh",
+        "jobdetails": "Must work in US time zone 8Am MST to 5 PM MST. Salary Paid Yearly 3,60,000 BDT Must have a Valid Passport Have experience at least 3 years' experience with following technologies. AWS, Python, Django, Kubernetes, Containers, Docker, Ubuntu, serverless API management Monitoring tools like Dynatrace, New Relic, Splunk and MySQL ",
+        "companydetails": "IT Managed Services, Software Development, IT Training, Software Consulting, IT Staffing, Digital Marketing, Azure, AWS , Splunk , Service-now, Salesforce, Mulesoft, React Native, and React Js",
+        "img":"https://miro.medium.com/max/1400/1*ij0mtmmYdYLZaHeOEmfxCA.png",
+        
+        "qualification": "2 years of experience with VMware, Citrix, Linux KVM, or Azure infrastructure. 1 Year of Linux Server Administration. Having a worked in a highly motivated, fast-paced, critical support role. Excellent decision making and critical-thinking skills. An ability to work in a fast-paced and quickly changing environment."
+
+    },
+    {
+        "id": "06",
+        "name": "Senior Full Stack Developer",
+        "jobtype": "Full-time. Entry level",
+        "location": "Dhaka, bangladesh",
+        "jobdetails": "Job Description: As a Wordpress Developer with our team, you will be responsible for executing best-in-class new website builds as well as feature and template updates to existing websites across a portfolio of client websites. Working with our team of designers and overseen by a project manager, we are looking for someone with strong expertise in WordPress theme development using modern standards for HTML5, CSS3, SCSS, native JS (ES6), latest Bootstrap libraries, and is familiar with Gutenberg, ACF Pro, Gravity Forms, Composer, NodeJS, and Git (for collaborative development). The ideal candidate should be capable of implementing pixel-perfect responsive web builds based on provided designs.",
+        "companydetails": "Dgency is a high-impact Digital Marketing Agency in Bangladesh. At Dgency, we implement strategic marketing solutions that deliver more customers, grow revenue, and future-proof your business.",
+        "img":"https://www.kosli.com/images/kosli-JobAddesign-Senior-Full-Stack-Developer2.jpg",
+        
+        "qualification": "Welcome to The Complete C Programming Bootcamp, the only course you need to become a skilled C developer. It doesn't matter if you are an absolute beginner or come from technologies like python or javascript. Together we will walk the path that will make you a pro in a language that is the foundation of modern computer science. C is the most natural language when you learn to think the way a computer thinks. By learning C, you connect with everything that happens under the hood in your system. C is the key to developing performance-critical solutions, and this course is the key to exploring every detail of this programming language."
+
+    }
+    
+]
